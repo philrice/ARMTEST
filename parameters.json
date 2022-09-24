@@ -1,0 +1,9 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualNetworks_GitOps01_VNET1_name": {
+            "value": "GitOps01-VNET1"
+        }
+    }
+}
