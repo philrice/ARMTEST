@@ -32,15 +32,6 @@
                             "privateEndpointNetworkPolicies": "Disabled",
                             "privateLinkServiceNetworkPolicies": "Enabled"
                         }
-                    },
-                    {
-                        "name": "subnetB",
-                        "properties":{
-                            "addressPrefix": "10.0.1.0/24",
-                            "delegations": [],
-                            "privateEndpointNetworkPolicies": "Disabled",
-                            "privateLinkServiceNetworkPolicies": "Enabled"
-                        }
                     }
                 ],
                 "virtualNetworkPeerings": [],
